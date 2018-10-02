@@ -1,1 +1,7 @@
-# HackerRank-solutions
+# HACKERRANK SOLUTIONS
+
+# 30 DAYS CODING CHALLENGE
+
+JAVA
+
+C
