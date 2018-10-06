@@ -5,6 +5,9 @@ This series focuses on learning and practicing JavaScript. Each challenge comes 
 
 In this challenge, we review some basic concepts that will get you started with this series. Check out the tutorial to learn more about JavaScript's lexical structure.
 
+
+# Day 0:HELLO,WORLD
+
 # Task
 
 A greeting function is provided for you in the editor below. It has one parameter, parameter variable. Perform the following tasks to complete this challenge:
@@ -20,10 +23,10 @@ You've got this!
 
 # Input Format
 
-Data Type	        Parameter	                Description
+Data Type	            Parameter	                  Description
 
-string	          parameter variable	      A single line of text containing one or more space-separated words.
-
+string	              parameter variable	        A single line of text containing one or more space-separated words.
+    
 
 # Output Format
 
