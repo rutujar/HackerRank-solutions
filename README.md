@@ -5,3 +5,7 @@
 JAVA
 
 C
+
+# 10 DAYS OF JAVASCRIPT
+
+JS
