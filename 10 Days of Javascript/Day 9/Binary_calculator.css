@@ -1,0 +1,32 @@
+#res {
+    width: 81%;
+    height: 48px;
+    font-size: 20px;
+    background: #d3d3d3;
+    border: solid;
+}
+
+.btnContainer {
+    width: 90%;
+}
+	
+.btnContainer > .btnStyle1, .btnStyle2, .btnStyle3 {
+    width: 22%;
+    height: 36px;
+    font-size: 18px;
+}
+	
+.btnContainer > .btnStyle1 {
+    background: lightgreen;
+    color: brown;
+}
+	
+.btnContainer > .btnStyle2 {
+    background: darkgreen;
+    color: white;
+}
+	
+.btnContainer > .btnStyle3 {
+    background: black;
+    color: red;
+}
