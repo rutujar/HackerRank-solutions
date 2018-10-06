@@ -8,7 +8,7 @@ Today, we're discussing data types. Check out the attached tutorial for more det
 
 Variables named firstinteger,firstdecimal, and firststring  are declared for you in the editor below. You must use the +  operator to perform the following sequence of operations:
 
-1. Convert  # second integer # to an integer (Number type), then sum it with  and print the result on a new line using console.log.
+1. Convert   second integer  to an integer (Number type), then sum it with  and print the result on a new line using console.log.
 
 2. Convert  to a floating-point number (Number type), then sum it with firstdecimal  and print the result on a new line using console.log.
 
@@ -17,8 +17,11 @@ Variables named firstinteger,firstdecimal, and firststring  are declared for you
 # Input Format
 
 Data Type	                  Parameter	                    Description
+
 string		                  secondinteger                 The string representation of an integer you must sum with firstinteger .
+
 string		                  seconddecimal                 The string representation of a floating-point number you must sum with firstdecimal .
+
 string		                  secondstring                   A string of one or more space-separated words you must append to secondstring.  
 
 # Output Format
