@@ -1,56 +1,68 @@
-import java.util.*;
 import java.io.*;
+import java.util.*;
 class Node{
-    Node left,right;
-    int data;
-    Node(int data){
-        this.data=data;
-        left=right=null;
+	int data;
+	Node next;
+	Node(int d){
+        data=d;
+        next=null;
     }
+	
 }
-class Solution{
-static void levelOrder(Node root){
-      if (root == null) {
-            return;
+class Solution
+{
+    public static Node removeDuplicates(Node head) {
+      if (head == null) {
+            return null;
         }
-        ArrayDeque<Node> deque = new ArrayDeque<>(); // use deque as a queue
-        deque.add(root);
-        while (!deque.isEmpty()) {
-            Node n = deque.removeFirst();
-            System.out.print(n.data + " ");
-            if (n.left != null) {
-                deque.addLast(n.left);
-            }
-            if (n.right != null) {
-                deque.addLast(n.right);
+        Node n = head;
+        while (n.next != null) {
+            if (n.data == n.next.data) {
+                n.next = n.next.next;
+            } else {
+                n = n.next;
             }
         }
+        return head;
     }
-public static Node insert(Node root,int data){
-        if(root==null){
-            return new Node(data);
+
+	 public static  Node insert(Node head,int data)
+   {
+        Node p=new Node(data);			
+        if(head==null)
+            head=p;
+        else if(head.next==null)
+            head.next=p;
+        else
+        {
+            Node start=head;
+            while(start.next!=null)
+                start=start.next;
+            start.next=p;
+
         }
-        else{
-            Node cur;
-            if(data<=root.data){
-                cur=insert(root.left,data);
-                root.left=cur;
-            }
-            else{
-                cur=insert(root.right,data);
-                root.right=cur;
-            }
-            return root;
-        }
+        return head;
     }
-    public static void main(String args[]){
-            Scanner sc=new Scanner(System.in);
-            int T=sc.nextInt();
-            Node root=null;
-            while(T-->0){
-                int data=sc.nextInt();
-                root=insert(root,data);
-            }
-            levelOrder(root);
-        }	
-}
+    public static void display(Node head)
+        {
+              Node start=head;
+              while(start!=null)
+              {
+                  System.out.print(start.data+" ");
+                  start=start.next;
+              }
+        }
+        public static void main(String args[])
+        {
+              Scanner sc=new Scanner(System.in);
+              Node head=null;
+              int T=sc.nextInt();
+              while(T-->0){
+                  int ele=sc.nextInt();
+                  head=insert(head,ele);
+              }
+              head=removeDuplicates(head);
+              display(head);
+
+       }
+    }
