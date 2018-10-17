@@ -16,6 +16,4 @@
 
 # PROFILE
 
-https://www.hackerrank.com/rutujarajesh23?hr_r=1
-
-[GitHub](http://github.com)
+[hackerrank](https://www.hackerrank.com/rutujarajesh23?hr_r=1)
