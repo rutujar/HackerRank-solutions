@@ -8,12 +8,14 @@
 
 # 10 DAYS OF JAVASCRIPT
 
-JS
+* JS
 
 # 10 DAYS OF STATISTICS
 
-JAVA
+* JAVA
 
 # PROFILE
 
 https://www.hackerrank.com/rutujarajesh23?hr_r=1
+
+[GitHub](http://github.com)
