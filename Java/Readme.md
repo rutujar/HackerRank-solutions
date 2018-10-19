@@ -1,8 +1,8 @@
 # Language Proficiency : JAVA
 
-Introduction
+* Introduction
 
-Strings
+* Strings
 
-Bignumber
+* Bignumber
 
