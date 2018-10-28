@@ -6,3 +6,9 @@
 
 * Bignumber
 
+* Data Structures
+
+* Object Oriented Programming
+
+* Exception Handling
+
