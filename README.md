@@ -14,6 +14,10 @@
 
 * JAVA
 
+#SQL
+
+* SQL
+
 # PROFILE
 
 [hackerrank](https://www.hackerrank.com/rutujarajesh23?hr_r=1)
