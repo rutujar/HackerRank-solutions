@@ -1,1 +1,6 @@
 # 10 Days of Javascript
+
+| Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  0  | [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                       |   10   | [Solution.js](https://github.com/rutujar/HackerRank-solutions/blob/master/10%20Days%20of%20Javascript/Day%200/Helloworld.js)                                              |
+|  0  | [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)                                                   |   10   | [Solution.js](https://github.com/rutujar/HackerRank-solutions/blob/master/10%20Days%20of%20Javascript/Day%200/DataTypes.js)                                                     |
