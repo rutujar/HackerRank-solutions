@@ -1,5 +1,5 @@
 # HACKERRANK SOLUTIONS 
-<a class="github-button" href="https://github.com/rutujar/HackerRank-solutions" data-icon="octicon-star" aria-label="Star rutujar/HackerRank-solutions on GitHub">Star</a>
+<a class="github-button" href="https://github.com/rutujar/HackerRank-solutions" data-show-count="true" aria-label="Star rutujar/HackerRank-solutions on GitHub">Star</a>
 
 # 30 DAYS CODING CHALLENGE
 
