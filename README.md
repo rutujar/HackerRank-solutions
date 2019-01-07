@@ -1,8 +1,6 @@
 # HACKERRANK SOLUTIONS 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rutujar/HackerRank-solutions.svg)](https://github.com/rutujar/HackerRank-solutions) 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/rutujar/HackerRank-solutions.svg)](https://github.com/rutujar/HackerRank-solutions) 
-[![GitHub stars](https://img.shields.io/github/stars/rutujar/HackerRank-solutions.svg)](https://github.com/rutujar/HackerRank-solutions)
-
 
 # 30 DAYS CODING CHALLENGE
 
