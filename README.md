@@ -2,23 +2,11 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/rutujar/HackerRank-solutions.svg)](https://github.com/rutujar/HackerRank-solutions) 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/rutujar/HackerRank-solutions.svg)](https://github.com/rutujar/HackerRank-solutions) 
 
-# 30 DAYS CODING CHALLENGE
+* [10 Days of Statistics](#10-days-of-statistics)
+* [10 Days of Javascript](#10-days-of-Javascript)
+* [Java](#java)
+* [SQL](#sql)
 
-* JAVA
-
-* C
-
-# 10 DAYS OF JAVASCRIPT
-
-* JS
-
-# 10 DAYS OF STATISTICS
-
-* JAVA
-
-# SQL
-
-* SQL
 
 # PROFILE
 
