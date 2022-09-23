@@ -29,17 +29,13 @@ function readLine() {
 function getSecondLargest(nums) {
     // Complete the function
     var sorted_array = nums.sort(function (a, b) { return a - b; });
+    //var sorted_array = nums.sort(); work without function not required
     var unique_sorted_array = sorted_array.filter(function (elem, index, self) {
         return index === self.indexOf(elem);
     })
 
     return unique_sorted_array[unique_sorted_array.length - 2];
     
-    /* simplest version
-    let nums = [5,7,8,4,6]
-    let sorted_array = nums.sort();
-    sorted_array[sorted_array.length - 2];
-    */
     
 }
 
