@@ -34,6 +34,13 @@ function getSecondLargest(nums) {
     })
 
     return unique_sorted_array[unique_sorted_array.length - 2];
+    
+    /* simplest version
+    let nums = [5,7,8,4,6]
+    let sorted_array = nums.sort();
+    sorted_array[sorted_array.length - 2];
+    */
+    
 }
 
 function main() {
